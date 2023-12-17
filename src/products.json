@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Bicicleta nn",
+    "description": "fixed",
+    "price": 500,
+    "img": "sin imagen",
+    "code": "abc125",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "title": "Bicicleta fad",
+    "description": "fixed",
+    "price": 1500,
+    "img": "sin imagen",
+    "code": "abc126",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Bicicleta fad roja",
+    "description": "fixed",
+    "price": 2500,
+    "img": "sin imagen",
+    "code": "abc127",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Bicicleta mercury negra",
+    "description": "fixed",
+    "price": 1500,
+    "img": "sin imagen",
+    "code": "abc128",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Bicicleta mercury azul",
+    "description": "single speed",
+    "price": 1300,
+    "img": "sin imagen",
+    "code": "abc129",
+    "stock": 35
+  },
+  {
+    "id": 6,
+    "title": "Bicicleta mercury roja",
+    "description": "fixed",
+    "price": 3500,
+    "img": "sin imagen",
+    "code": "abc130",
+    "stock": 45
+  },
+  {
+    "id": 7,
+    "title": "Bicicleta fad azul",
+    "description": "fixed",
+    "price": 5500,
+    "img": "sin imagen",
+    "code": "abc131",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "Bicicleta nn cromada",
+    "description": "fixed",
+    "price": 2500,
+    "img": "sin imagen",
+    "code": "abc132",
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "title": "Bicicleta nn verde",
+    "description": "fixed",
+    "price": 3600,
+    "img": "sin imagen",
+    "code": "abc133",
+    "stock": 2
+  },
+  {
+    "id": 10,
+    "title": "Bicicleta nn azul",
+    "description": "fixed",
+    "price": 1500,
+    "img": "sin imagen",
+    "code": "abc134",
+    "stock": 16
+  }
+]

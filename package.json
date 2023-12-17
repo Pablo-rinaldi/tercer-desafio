@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "express": "^4.18.2",
+    "node": "^21.2.0",
+    "nodemon": "^3.0.2"
+  },
+  "name": "desafio-back-end",
+  "version": "1.0.0",
+  "description": "tercer desafio",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Pablo Rinaldi",
+  "license": "ISC"
+}
